@@ -19,11 +19,11 @@ Cargamos el modulo creado y revisamos la lista de modulos para ver que se haya c
 
 ![](/Imagenes%20TP0/Captura%20de%20pantalla%20de%202020-10-05%2018-16-26.png)
 
-Vemos el log del kernel para saber que mayor number usar
+Vemos el log del kernel para saber que major number usar
 
 ![](/Imagenes%20TP0/Captura%20de%20pantalla%20de%202020-10-05%2018-18-01.png)
 
-Creación del archivo asociado en el kernel con el mayor number indicado
+Creación del archivo asociado en el kernel con el major number indicado
 
 ![](/Imagenes%20TP0/Captura%20de%20pantalla%20de%202020-10-05%2018-20-17.png)
 
